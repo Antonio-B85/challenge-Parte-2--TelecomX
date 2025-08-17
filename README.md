@@ -206,6 +206,8 @@ En base a los estudios detallados anteriormente se ha establecido que el modelo 
    
 3. El **f1-score** para la clase positiva (1.0) es el más alto entre todos los modelos, lo que indica una mejor capacidad para identificar correctamente las instancias positivas.
 
+<img width="870" height="720" alt="image" src="https://github.com/user-attachments/assets/44780a51-143d-4373-9c2a-d6b4c15ecb11" />
+
 ## Principales Factores de Cancelación
 
 Las columnas que preciden de mejor manera si una persona dejará la empresa son 10 y se detallan anteriormente y además se encuentra en el archivo [TelecomX_Parte2_Bosques_Aleatorios.ipynb](https://github.com/Antonio-B85/challenge-Parte-2--TelecomX/blob/main/TelecomX_Parte2_Bosques_Aleatorios.ipynb):
