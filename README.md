@@ -18,7 +18,17 @@ Primeramente, se realizó un análisis y tratamiento de los datos, además de un
 
 Luego de establecida una línea base de estudios, se realizaron dos modelos predictivos para abordar la problemática que existe, uno basado en Bosques Aleatorios y otro en Árboles de decisión. 
 
+**IMPORTANTE:** El análisis se encuentra dividido en 2 archivos, uno llamado [TelecomX_Parte2_Arboles_Decision.ipynb](https://github.com/Antonio-B85/challenge-Parte-2--TelecomX/blob/main/TelecomX_Parte2_Arboles_Decision.ipynb) y otro llamado [TelecomX_Parte2_Bosques_Aleatorios.ipynb](https://github.com/Antonio-B85/challenge-Parte-2--TelecomX/blob/main/TelecomX_Parte2_Bosques_Aleatorios.ipynb) respectivamente. En cada uno de ellos se encuentra el análisis base más el respectivo análisis basado en el modelo elegido.
+
+
 ## Modelo Base:
+
+Este proceso cuenta con la generación de un modelo base o "base line" para tener de referencia para los futuros modelos.
+
+- **Definiendo una baseline:** Creación del modelo base.
+  - 'RMSE': 0.4391
+  - 'MAE': 0.3887
+  - 'R2': -0.0002
 
 ## Modelo 1: Árboles de Decisión
 
